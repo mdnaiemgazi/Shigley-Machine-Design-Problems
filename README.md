@@ -1,4 +1,4 @@
-# Shigley's Machine Design Problems - SolidWorks Simulation Portfolio
+# Shigley's Machine Design Problems - SolidWorks Simulation 
 
 A comprehensive collection of **SolidWorks CAD models and simulations** solving selected problems from Shigley's Mechanical Engineering Design (9th Edition). This repository demonstrates practical application of machine design principles through parametric modeling, finite element analysis (FEA), and motion simulation.
 
